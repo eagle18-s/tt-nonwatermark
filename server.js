@@ -92,4 +92,4 @@ app.post('/api/download', async (req, res) => {
 app.listen(PORT, () => {
     console.log(`Server ${PORT} portunda aktivdir.`);
 });
-
+                            
